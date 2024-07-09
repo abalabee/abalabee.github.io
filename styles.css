@@ -1,14 +1,14 @@
 body{
 	font-family: "Pixelify Sans", sans-serif;
-	background-color:LightSeaGreen;
+	background-color:powderblue;
 	background-image:url('offline.png');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
   	background-size: cover;
 }
 h1,h2{
-	color:powderblue;
+	color:Teal;
 }
 p{
-	color:Teal;
+	color:LightSeaGreen;
 }
