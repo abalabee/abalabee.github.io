@@ -4,7 +4,7 @@ body{
 	background-image:url('offline.png');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-  	background-size: cover;
+  	background-size: 100% 100%;
 }
 h1,h2{
 	color:Teal;
