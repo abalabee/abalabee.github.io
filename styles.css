@@ -4,7 +4,8 @@ body{
 	background-image:url('offline.png');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-  	background-size: 100% 100%;
+	background-size: max-width;
+  	/* background-size: 100% 100%; */
 }
 h1,h2{
 	color:Teal;
@@ -12,3 +13,4 @@ h1,h2{
 p{
 	color:LightSeaGreen;
 }
+
